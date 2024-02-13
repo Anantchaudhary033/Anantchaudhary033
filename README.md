@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anant Chaudhary</h1>
 <h3 align="center">A passionate student in Data Science field</h3>
 
-<p align="left"> <img src="https://t4.ftcdn.net/jpg/05/56/19/27/360_F_556192719_ufc0kALMglVMchMm0qkzc7N1TskdMrEd.jpg" /> </p>
+<p align="center"> <img src="https://t4.ftcdn.net/jpg/05/56/19/27/360_F_556192719_ufc0kALMglVMchMm0qkzc7N1TskdMrEd.jpg" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantchaudhary033&label=Profile%20views&color=0e75b6&style=flat" alt="anantchaudhary033" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anantchaudhary033" alt="anantchaudhary033" /></a> </p>
