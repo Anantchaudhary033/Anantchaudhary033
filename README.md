@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Anant Chaudhary</h1>
-<h1 align="center">Hi 👋, I'm Anant Chaudhary</h1>
 <h3 align="center">A passionate student in Data Science field</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantchaudhary033&show_icons=true&locale=en" alt="anantchaudhary033" /></p>![github](https://github.com/Anantchaudhary033/Anantchaudhary033/assets/149559775/5d6f7704-a0b5-4530-a802-b1c43f692c7a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantchaudhary033&label=Profile%20views&color=0e75b6&style=flat" alt="anantchaudhary033" /> </p>
 
@@ -28,3 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantchaudhary033&show_icons=true&locale=en&layout=compact" alt="anantchaudhary033" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantchaudhary033&show_icons=true&locale=en" alt="anantchaudhary033" /></p>
